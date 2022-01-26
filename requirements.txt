@@ -1,0 +1,4 @@
+luma.core
+Adafruit_DHT
+netifaces
+docker
